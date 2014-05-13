@@ -1,0 +1,6 @@
+140510_193609: /uscmst1/prod/grid/CRAB_2_10_5_patch1/python/crab.py -cfg runL1_SLHC.cfg -create
+140510_193652: /uscmst1/prod/grid/CRAB_2_10_5_patch1/python/crab.py -c crab_runL1_SLHC -submit
+140511_115417: /uscmst1/prod/grid/CRAB_2_10_5_patch1/python/crab.py -c crab_runL1_SLHC -status
+140511_115430: /uscmst1/prod/grid/CRAB_2_10_5_patch1/python/crab.py -c crab_runL1_SLHC -get
+140511_115434: /uscmst1/prod/grid/CRAB_2_10_5_patch1/python/crab.py -c crab_runL1_SLHC -status
+140512_040411: /uscmst1/prod/grid/CRAB_2_10_5_patch1/python/crab.py -cfg runL1_Step2_tmbReadoutEarliest2.cfg -create

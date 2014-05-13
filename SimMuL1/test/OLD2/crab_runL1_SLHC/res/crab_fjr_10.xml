@@ -1,0 +1,109 @@
+<FrameworkJobReport Status="Failed">
+	<ExitCode Value="50117"/>
+	<InputFile>
+		<EventsRead>0</EventsRead>
+		<Runs/>
+		<ModuleLabel>source</ModuleLabel>
+		<FileType>EDM</FileType>
+		<LFN>/store/user/jdimasva/SingleMuPt2-50Fwdv2_100K_DIGI_PU140/jdimasva/SingleMuPt2-50Fwdv2_1M/SingleMuPt2-50Fwdv2_100K_DIGI_PU140/7444237097ec40e1cd737724f1a85642/out_digi_26_1_ulb.root</LFN>
+		<PFN>root://cmsxrootd-site.fnal.gov//store/user/jdimasva/SingleMuPt2-50Fwdv2_100K_DIGI_PU140/jdimasva/SingleMuPt2-50Fwdv2_1M/SingleMuPt2-50Fwdv2_100K_DIGI_PU140/7444237097ec40e1cd737724f1a85642/out_digi_26_1_ulb.root</PFN>
+		<MergedBySize>False</MergedBySize>
+		<Catalog/>
+		<Checksums>{}</Checksums>
+		<GUID>9A467F60-369C-E311-87A6-002618943903</GUID>
+		<State Value="open"/>
+		<Runs/>
+		<Branches>
+			<Branch>CSCDetIdCSCALCTDigiMuonDigiCollection_simCscTriggerPrimitiveDigis__GEMDIGI.</Branch>
+			<Branch>CSCDetIdCSCCLCTDigiMuonDigiCollection_simCscTriggerPrimitiveDigis__GEMDIGI.</Branch>
+			<Branch>CSCDetIdCSCComparatorDigiMuonDigiCollection_simMuonCSCDigis_MuonCSCComparatorDigi_DIGI.</Branch>
+			<Branch>CSCDetIdCSCComparatorDigiMuonDigiCollection_simMuonCSCDigis_MuonCSCComparatorDigi_GEMDIGI.</Branch>
+			<Branch>CSCDetIdCSCCorrelatedLCTDigiMuonDigiCollection_simCscTriggerPrimitiveDigis__GEMDIGI.</Branch>
+			<Branch>CSCDetIdCSCCorrelatedLCTDigiMuonDigiCollection_simCscTriggerPrimitiveDigis_MPCSORTED_GEMDIGI.</Branch>
+			<Branch>CSCDetIdCSCStripDigiMuonDigiCollection_simMuonCSCDigis_MuonCSCStripDigi_DIGI.</Branch>
+			<Branch>CSCDetIdCSCWireDigiMuonDigiCollection_simMuonCSCDigis_MuonCSCWireDigi_DIGI.</Branch>
+			<Branch>CSCDetIdCSCWireDigiMuonDigiCollection_simMuonCSCDigis_MuonCSCWireDigi_GEMDIGI.</Branch>
+			<Branch>CSCDetIdintMuonDigiCollection_simCscTriggerPrimitiveDigis__GEMDIGI.</Branch>
+			<Branch>CrossingFramePlaybackInfoExtended_mix__DIGI.</Branch>
+			<Branch>DTLayerIdDTDigiMuonDigiCollection_simMuonDTDigis__DIGI.</Branch>
+			<Branch>DTLayerIdDTDigiMuonDigiCollection_simMuonDTDigis__GEMDIGI.</Branch>
+			<Branch>DTLayerIdDTDigiSimLinkMuonDigiCollection_simMuonDTDigis__DIGI.</Branch>
+			<Branch>GEMDetIdGEMCSCPadDigiMuonDigiCollection_simMuonGEMCSCPadDigis__DIGI.</Branch>
+			<Branch>GEMDetIdGEMCSCPadDigiMuonDigiCollection_simMuonGEMCSCPadDigis__GEMDIGI.</Branch>
+			<Branch>GEMDetIdGEMCSCPadDigiMuonDigiCollection_simMuonGEMCSCPadDigis_Coincidence_DIGI.</Branch>
+			<Branch>GEMDetIdGEMCSCPadDigiMuonDigiCollection_simMuonGEMCSCPadDigis_Coincidence_GEMDIGI.</Branch>
+			<Branch>GEMDetIdGEMDigiMuonDigiCollection_simMuonGEMDigis__DIGI.</Branch>
+			<Branch>GEMDetIdGEMDigiMuonDigiCollection_simMuonGEMDigis__GEMDIGI.</Branch>
+			<Branch>GenEventInfoProduct_generator__SIM.</Branch>
+			<Branch>PSimHits_g4SimHits_MuonCSCHits_SIM.</Branch>
+			<Branch>PSimHits_g4SimHits_MuonDTHits_SIM.</Branch>
+			<Branch>PSimHits_g4SimHits_MuonGEMHits_SIM.</Branch>
+			<Branch>PSimHits_g4SimHits_MuonRPCHits_SIM.</Branch>
+			<Branch>PSimHits_g4SimHits_PLTHits_SIM.</Branch>
+			<Branch>PileupMixingContent_mix__DIGI.</Branch>
+			<Branch>RPCDetIdRPCDigiMuonDigiCollection_simMuonRPCDigis__DIGI.</Branch>
+			<Branch>RPCDetIdRPCDigiMuonDigiCollection_simMuonRPCDigis__GEMDIGI.</Branch>
+			<Branch>RPCDigiSimLinkedmDetSetVector_simMuonRPCDigis_RPCDigiSimLink_DIGI.</Branch>
+			<Branch>SimTracks_g4SimHits__SIM.</Branch>
+			<Branch>SimVertexs_g4SimHits__SIM.</Branch>
+			<Branch>StripDigiSimLinkedmDetSetVector_simMuonCSCDigis_MuonCSCStripDigiSimLinks_DIGI.</Branch>
+			<Branch>StripDigiSimLinkedmDetSetVector_simMuonCSCDigis_MuonCSCWireDigiSimLinks_DIGI.</Branch>
+			<Branch>StripDigiSimLinkedmDetSetVector_simMuonGEMDigis_GEM_DIGI.</Branch>
+			<Branch>double_ak5GenJets_rho_SIM.</Branch>
+			<Branch>double_ak5GenJets_sigma_SIM.</Branch>
+			<Branch>double_iterativeCone5GenJets_rho_SIM.</Branch>
+			<Branch>double_iterativeCone5GenJets_sigma_SIM.</Branch>
+			<Branch>double_kt4GenJets_rho_SIM.</Branch>
+			<Branch>double_kt4GenJets_sigma_SIM.</Branch>
+			<Branch>double_kt6GenJets_rho_SIM.</Branch>
+			<Branch>double_kt6GenJets_sigma_SIM.</Branch>
+			<Branch>doubles_ak5GenJets_rhos_SIM.</Branch>
+			<Branch>doubles_ak5GenJets_sigmas_SIM.</Branch>
+			<Branch>doubles_iterativeCone5GenJets_rhos_SIM.</Branch>
+			<Branch>doubles_iterativeCone5GenJets_sigmas_SIM.</Branch>
+			<Branch>doubles_kt4GenJets_rhos_SIM.</Branch>
+			<Branch>doubles_kt4GenJets_sigmas_SIM.</Branch>
+			<Branch>doubles_kt6GenJets_rhos_SIM.</Branch>
+			<Branch>doubles_kt6GenJets_sigmas_SIM.</Branch>
+			<Branch>edmHepMCProduct_generator__SIM.</Branch>
+			<Branch>edmRandomEngineStates_randomEngineStateProducer__DIGI.</Branch>
+			<Branch>edmTriggerResults_TriggerResults__DIGI.</Branch>
+			<Branch>edmTriggerResults_TriggerResults__GEMDIGI.</Branch>
+			<Branch>edmTriggerResults_TriggerResults__SIM.</Branch>
+			<Branch>ints_genParticles__SIM.</Branch>
+			<Branch>recoGenJets_ak5GenJets__SIM.</Branch>
+			<Branch>recoGenJets_ak8GenJets__SIM.</Branch>
+			<Branch>recoGenJets_iterativeCone5GenJets__SIM.</Branch>
+			<Branch>recoGenJets_kt4GenJets__SIM.</Branch>
+			<Branch>recoGenJets_kt6GenJets__SIM.</Branch>
+			<Branch>recoGenMETs_genMetCalo__SIM.</Branch>
+			<Branch>recoGenMETs_genMetCaloAndNonPrompt__SIM.</Branch>
+			<Branch>recoGenMETs_genMetTrue__SIM.</Branch>
+			<Branch>recoGenParticles_genParticles__SIM.</Branch>
+		</Branches>
+	</InputFile>
+	<FrameworkError ExitStatus="8009" Type="Fatal Exception">
+		An exception of category 'Configuration' occurred while
+						   [0] Constructing the EventProcessor
+						   [1] Constructing module: class=CSCTriggerPrimitivesProducer label='simCscTriggerPrimitiveDigis'
+						Exception Message:
+						StatusMismatch: Parameter 'dropLowQualityALCTsNoGEMs_ME1a' is designated as untracked in the code,
+						but is not designated as untracked in the configuration file.
+						Please change the configuration file to 'untracked &lt;type&gt; dropLowQualityALCTsNoGEMs_ME1a'.
+	</FrameworkError>
+	<FrameworkError ExitStatus="8009" Type="WrapperExitCode"/>
+	<FrameworkError ExitStatus="8009" Type="ExeExitCode"/>
+	<TimingService/>
+	<ReadBranches/>
+	<GeneratorInfo/>
+	<PerformanceReport>
+		<CPU/>
+		<Memory/>
+		<PerformanceSummary Metric="CrabTiming">
+			<Metric Name="ExeTime" Value="13"/>
+			<Metric Name="WrapperTime" Value="26"/>
+			<Metric Name="CpuTime" Value="&quot;10.43 0.77 85%&quot;"/>
+			<Metric Name="StageoutTime" Value="-2"/>
+		</PerformanceSummary>
+	</PerformanceReport>
+</FrameworkJobReport>
