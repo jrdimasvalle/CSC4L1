@@ -143,3 +143,16 @@ eosfiles['_pt2-50_SLHC11_2023Muon'] = ['/eos/uscms/store/user/lpcgem/dildick/Sin
 eosfiles['_pt2-50_SLHC11_2023Muon_PU0'] = ['/eos/uscms/store/user/lpcgem/dildick/SingleMuPt2-50_1M_SLHC11_2023Muon/SingleMuPt2-50_1M_SLHC11_2023Muon_DIGI_PU0/abb92f2d576c84bfcdd5da9b6637acf8/']
 eosfiles['_pt2-50_SLHC11_2023Muon_PU140'] = ['/eos/uscms/store/user/lpcgem/dildick/SingleMuPt2-50_1M_SLHC11_2023Muon/SingleMuPt2-50_1M_SLHC11_2023Muon_DIGI_PU140/3d13cbaabc944c94dfc4b7e14635daa0/']
 eosfiles['_pt2-50_SLHC11_2023Muon_PU200'] = ['/eos/uscms/store/user/lpcgem/dildick/SingleMuPt2-50_1M_SLHC11_2023Muon/SingleMuPt2-50_1M_SLHC11_2023Muon_DIGI_PU200/c92741df1130b71bb884f6fba370a358/']
+
+
+eosfiles['SLAVA4_SLHC_TMB'] = ['/eos/uscms/store/user/jdimasva/Slava4/TMB_SLHC/']
+eosfiles['SLAVA4_Step2'] = ['/eos/uscms/store/user/jdimasva/Slava4/ALCT_CLCT_Improvements/']
+
+eosfiles['SLAVA4_Step1'] = ['/eos/uscms/store/user/jdimasva/Slava4/No_Improvements/']
+
+
+
+
+eosfiles['OLD_CSC'] = ['/eos/uscms/store/user/jdimasva/Crab_PU140_v2/runL1_SLHC/']
+eosfiles['Try_3'] = ['/eos/uscms/store/user/jdimasva/Try3/']
+

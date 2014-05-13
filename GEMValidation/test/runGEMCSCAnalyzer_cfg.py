@@ -26,10 +26,23 @@ process.MessageLogger.cerr.FwkReport.reportEvery = cms.untracked.int32(100)
 from GEMCode.SimMuL1.GEMCSCTriggerSamplesLib import *
 from GEMCode.GEMValidation.InputFileHelpers import *
 #process = useInputDir(process, files['_gem98_pt2-50_PU0_pt0_new'], False)
+suffix = 'SLAVA4_SLHC_TMB'
+process = useInputDir(process, eosfiles[suffix], True)
 
+
+#output
+
+outputFileName = 'CSC4' + "_" + suffix + '_eff.root'
 process.TFileService = cms.Service("TFileService",
-    fileName = cms.string("gem-csc_stub_ana.root")
+fileName = cms.string(outputFileName)
 )
+
+
+
+
+#process.TFileService = cms.Service("TFileService",
+#    fileName = cms.string("gem-csc_stub_ana.root")
+
 
 ## global tag for upgrade studies
 from Configuration.AlCa.GlobalTag import GlobalTag
